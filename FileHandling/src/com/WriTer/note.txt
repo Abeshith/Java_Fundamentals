@@ -1,0 +1,3 @@
+Hello! This is From FileWriter Class 
+ This is only for practicing of FileHandling.
+ So please consider this a info✨.
